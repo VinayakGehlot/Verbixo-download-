@@ -1,0 +1,6 @@
+{
+  "name": "VERBIXO: English Learning",
+  "description": "Premium landing page for VERBIXO: English Learning app for Android and iOS, featuring spoken English practice, real-life conversations, and interactive learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
